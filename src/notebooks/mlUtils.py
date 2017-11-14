@@ -13,6 +13,9 @@ def accuracy(y_true, y_hat):
 
 #linear regression
 class linear:
+    def __init__(self):
+        pass
+
     def train(self, X, Y, lamb):
         A = X.T.dot(X)
         A = A + lamb*np.identity(A.shape[0])
