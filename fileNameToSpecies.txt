@@ -25,7 +25,7 @@ Oryza_glabra_PMR2210_NEW.lif - Series018 - C=1.tif	Oryza glabra
 Oryza_glabra_PMR2210_NEW.lif - Series020 - C=1.tif	Oryza glabra
 Oryza_glabra_PMR2210_NEW.lif - Series023 - C=1.tif	Oryza glabra
 Oryza_glabra_PMR2210_NEW.lif - Series025 - C=1.tif	Oryza glabra
- Oryza_glabra_PMR2210_NEW_Series020.tif                     	Oryza glabra
+Oryza_glabra_PMR2210_NEW_Series020.tif	Oryza glabra
 Oryza_subulata_PMR370_NEW.lif - Series002 - C=1.tif	Oryza subulata
 Oryza_subulata_PMR370_NEW.lif - Series005 - C=1.tif	Oryza subulata
 Oryza_subulata_PMR370_NEW.lif - Series017 - C=1.tif	Oryza subulata
